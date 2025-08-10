@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-08-08 at 20 48 24_a9e32a5b](https://github.com/user-attachments/assets/8d0aa387-c781-4ef5-97ad-4d166a529d1f)
+<img class="![WhatsApp Image 2025-08-08 at 20 48 24_a9e32a5b](https://github.com/user-attachments/assets/8d0aa387-c781-4ef5-97ad-4d166a529d1f)" width="200" />
 
 <h1>Hello, I'm Muhammad Farihin Mushawwir</h1>
 
