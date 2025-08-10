@@ -1,7 +1,6 @@
 ![Uploading majed-swan-_PvpgpQpHqs-unsplash.jpg…]()
-
-## Hi there/ 👋
-<h1>Tes</h1>
+<h1>Hello, I'm Muhammad Farihin Mushawwir</h1>
+<img src ="https://skillicons.dev/icons?i=figma,html,tailwind"/>
 
 
  🔭 I’m currently working on ...
